@@ -1,0 +1,8 @@
+numpy
+matplotlib
+librosa
+glob
+sklearn
+scipy
+zipfile
+os
